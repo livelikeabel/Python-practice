@@ -5,5 +5,6 @@
 <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
 <path>/${PROJECT_DIR_NAME}/acon</path>
 <path>/${PROJECT_DIR_NAME}/programmers</path>
+<path>/${PROJECT_DIR_NAME}/programmers-algorithm</path>
 </pydev_pathproperty>
 </pydev_project>
